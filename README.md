@@ -27,3 +27,7 @@ https://www.arduino.cc/reference/en/libraries/newping/
 
 Este es un ejemplo básico para comenzar. Ajusta las velocidades, umbrales y la lógica de giro según las especificaciones de tu robot y las condiciones del laberinto. ¡Espero que te sea útil!
 
+
+circuito
+https://electronoobs.com/arduino_tut6.php
+
